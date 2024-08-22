@@ -37,7 +37,3 @@ The system continuously checks for the presence of alcohol using the MQ3 alcohol
 2. Upload the provided code to your Arduino.
 3. Open the Serial Monitor at a baud rate of 9600 to observe the status of alcohol detection.
 4. Test the system by bringing alcohol near the sensor and observing the behavior of the buzzer and car ignition.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
